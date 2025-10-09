@@ -7,5 +7,3 @@ export function printDecorations() {
         console.log(decoration);
     }
 }
-
-printDecorations();
