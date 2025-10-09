@@ -5,7 +5,4 @@ export function print_snacks(): void {
     for (let snack of snacks) {
         console.log(snack);
     }
-    console.log('\n');
 }
-
-print_snacks();
