@@ -1,6 +1,6 @@
 import { animation } from "./animation";
 
-export let snacks: string[] = ['watermelon', 'tortilla chips', 'salsa']
+export let snacks: string[] = ['watermelon', 'chips']
 
 export function print_snacks(): void {
     animation("snacks");
